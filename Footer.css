@@ -1,0 +1,23 @@
+.footer {
+    background-color:black;
+    color:rgb(10, 9, 7);
+    padding: 10px ;
+    background-clip: border-box;
+  }
+p{
+color: aqua;
+  }
+  p1{
+    color:brown;
+    text-align: center;
+    
+  }
+  p2{
+    color: brown;
+    text-align: center;
+  }
+  .foot{
+    background-clip:content-box;
+    background-color: black;
+    padding-top: 7%;
+  }

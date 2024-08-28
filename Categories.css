@@ -1,0 +1,17 @@
+.main img {
+    display: flexbox;
+    border-radius: 50%;
+    border-image: round;
+    border-image-width: 0%;
+    
+   
+  
+   
+   
+  
+    
+}
+.main h5 {
+    color: gray;
+}
+
